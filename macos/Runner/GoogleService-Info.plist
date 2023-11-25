@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>788972613251-i0mfka5avm8d2fp74spjncnhuj88eevv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.788972613251-i0mfka5avm8d2fp74spjncnhuj88eevv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>788972613251-hoja04dq0mvei064eiv4ei6t5ne7lrf2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfwCNvlG_VWnFI2hmFbZyELuVhJCUuziM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>788972613251</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eKartDemoV1.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>new-ekart7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>new-ekart7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:788972613251:ios:98e2329a29087d503b35b6</string>
+</dict>
+</plist>

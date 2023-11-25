@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "788972613251",
+    "project_id": "new-ekart7",
+    "storage_bucket": "new-ekart7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788972613251:android:3fe9ab644a4b31083b35b6",
+        "android_client_info": {
+          "package_name": "com.example.e_kart_demo_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788972613251-p3rvrve437j7iseke5g0q47p7qjnc86k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_OSiGZJ04f_ED_dH8GaOJSWi3kgPs0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788972613251-p3rvrve437j7iseke5g0q47p7qjnc86k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788972613251-2org1e6ucli4969mir0kjae37gb6fqtg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eKartDemoV1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788972613251:android:dcc8b5598dd1927e3b35b6",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788972613251-hoja04dq0mvei064eiv4ei6t5ne7lrf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_signup_app",
+            "certificate_hash": "61f289c6e2934eb0d29d5059f404375ae07e6770"
+          }
+        },
+        {
+          "client_id": "788972613251-p3rvrve437j7iseke5g0q47p7qjnc86k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_OSiGZJ04f_ED_dH8GaOJSWi3kgPs0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788972613251-p3rvrve437j7iseke5g0q47p7qjnc86k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788972613251-2org1e6ucli4969mir0kjae37gb6fqtg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eKartDemoV1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
